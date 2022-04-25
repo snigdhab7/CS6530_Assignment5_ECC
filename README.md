@@ -1,9 +1,3 @@
-# CS6530_Assignment5_ECC
-<p>
-Name: Snigdha Bose</br>
-Roll number: CS21M502</br>
-Registered Mail ID: snigdhab7@gmail.com</br>
-
 Elliptic Curve Implementation - cryptography
 The elliptic curve: y^2 mod 263 = (x^3+1x+1) mod 263
 
